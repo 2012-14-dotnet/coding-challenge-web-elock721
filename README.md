@@ -1,6 +1,6 @@
 # readme
 
-I started at 9:04 am
+
 
 ## structure
 
